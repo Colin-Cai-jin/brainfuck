@@ -3,7 +3,7 @@ Brainfuck is a known programming language including 8 instructions.
 
 ## Run
 ```bash
-$ cheme --optimize-level 3 --quiet --script brainfuck.ss
+$ scheme --optimize-level 3 --quiet --script brainfuck.ss
 Input the bf file
 mul.bf
 ab
